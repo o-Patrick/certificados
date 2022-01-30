@@ -1,2 +1,2 @@
 # certificados
- Repositório contendo meus certificados para facilitar a visualização :)
+ Repositório contendo meus certificados para facilitar a visualização :smile:
