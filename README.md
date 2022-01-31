@@ -17,4 +17,4 @@
         - [Primeiros Passos Para Começar a Programar (7529BB37)](https://o-patrick.github.io/certificados/certificados/dio/certificado-programar.pdf)
         - [Bem-vindo à DIO (75B0FEE3)](https://o-patrick.github.io/certificados/certificados/dio/certificado-bem-vindo-a-dio.pdf)
         
-[Visualizar a página na web](https://o-patrick.github.io/certificados/) | [Visualizar a página no GitHub](https://github.com/o-Patrick/certificados)
+[Visualizar a página na web](https://o-patrick.github.io/certificados/) | [Visualizar o repositório no GitHub](https://github.com/o-Patrick/certificados)
