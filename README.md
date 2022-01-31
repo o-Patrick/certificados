@@ -16,3 +16,4 @@
         - [Aprenda o que são Estruturas de Dados e Algoritmos (7BD9B0D8)](https://o-patrick.github.io/certificados/certificados/dio/.pdf)
         - [Primeiros Passos Para Começar a Programar (7529BB37)](https://o-patrick.github.io/certificados/certificados/dio/certificado-programar.pdf)
         - [Bem-vindo à DIO (75B0FEE3)](https://o-patrick.github.io/certificados/certificados/dio/certificado-bem-vindo-a-dio.pdf)
+ Quer visualizar a página? [Clique aqui!](https://o-patrick.github.io/certificados/)
