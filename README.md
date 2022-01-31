@@ -1,5 +1,5 @@
 # Meus certificados
- Olá! Este repositório possui certificados de cursos que completei para facilitar a consulta.
+ Olá! Para facilitar a consulta, este repositório possui certificados de cursos que completei.
  
  _**Obs:** os certificados  estão acompanhados pelo respectivo **código de identificação** contido em cada documento._
  
