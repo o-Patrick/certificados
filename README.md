@@ -4,7 +4,6 @@
  _**Obs:** os certificados  estão acompanhados pelo respectivo **código de identificação** contido em cada documento._
  
  - **DIO (Digital Innovation One)**
- ![Logo DIO](https://o-patrick.github.io/certificados/images/dio-logo.jpg)
     - Bootcamps
         - [Boas-vindas ao Bootcamp Take Blip Web Developer (E532F59F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-boas-vindas-ao-bootcamp-take-blip-web-develope.pdf)
     - Cursos
