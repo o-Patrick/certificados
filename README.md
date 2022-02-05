@@ -7,6 +7,10 @@
     - Bootcamps
         - [Boas-vindas ao Bootcamp Take Blip Web Developer (E532F59F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-boas-vindas-ao-bootcamp-take-blip-web-develope.pdf)
     - Cursos
+        - [Sintaxe e Operadores (A966260B)](https://o-patrick.github.io/certificados/certificados/dio/A966260B_sintaxe-operadores.pdf)
+        - [Sintaxe Básica em JavaScript (DA24839A)](https://o-patrick.github.io/certificados/certificados/dio/DA24839A_sint-base-js.pdf)
+        - [Introdução ao JavaScript (0F8C9540)](https://o-patrick.github.io/certificados/certificados/dio/0F8C9540_intro-js.pdf)
+        - [IDE Instalação e Configuração (Visual Studio Code) (925AD687)](https://o-patrick.github.io/certificados/certificados/dio/925AD687_ide-vscode.pdf)
         - [Construindo páginas para internet com Bootstrap (2E9986A2)](https://o-patrick.github.io/certificados/certificados/dio/certificado-construindo-paginas-para-internet-com-bootstrap.pdf)
         - [Introdução ao Git e ao GitHub (DCF7836F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-introducao-ao-git-e-ao-github.pdf)
         - [Programação para internet com JavaScript (CD2A4E6A)](https://o-patrick.github.io/certificados/certificados/dio/certificado-programacao-para-internet-com-javascript.pdf)
