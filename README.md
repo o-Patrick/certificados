@@ -20,5 +20,13 @@
         - [Aprenda o que são Estruturas de Dados e Algoritmos (7BD9B0D8)](https://o-patrick.github.io/certificados/certificados/dio/certificado-estruturas-de-dados-e-algoritmos.pdf)
         - [Primeiros Passos Para Começar a Programar (7529BB37)](https://o-patrick.github.io/certificados/certificados/dio/certificado-programar.pdf)
         - [Bem-vindo à DIO (75B0FEE3)](https://o-patrick.github.io/certificados/certificados/dio/certificado-bem-vindo-a-dio.pdf)
+
+ - **LinkedIn Learning**
+    - Cursos
+        - [Como Desenvolver sua Inteligência Emocional (AW1aJudBvWzz5yCvE8l57g0AuPNS)](https://o-patrick.github.io/certificados/certificados/linkedin-learning/certificado-de-donclusao_como-desenvolver-sua-inteligencia-emocional.pdf)
+
+ - **Nube**
+    - Cursos
+        - [Como Administrar seu Tempo (620345021)](https://o-patrick.github.io/certificados/certificados/nube/certificado_como-administrar-seu-tempo.pdf)
         
 [Visualizar a página na web](https://o-patrick.github.io/certificados/) | [Visualizar o repositório no GitHub](https://github.com/o-Patrick/certificados)
