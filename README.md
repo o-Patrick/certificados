@@ -4,8 +4,8 @@
  _**Obs:** os certificados  estão acompanhados pelo respectivo **código de identificação** contido em cada documento._
  
  - **Idiomas**
-    - Inglês (avançado)
-    - Mandarim (básico)
+    - [Inglês (avançado)](https://o-patrick.github.io/certificados/certificados/ingles/ingles.pdf)
+    - [Mandarim (básico)](https://o-patrick.github.io/certificados/certificados/chines/certificate-chines-1-5b32f299c1ba3197938b4596.pdf)
 
  - **DIO (Digital Innovation One)**
     - Bootcamps
