@@ -3,6 +3,10 @@
  
  _**Obs:** os certificados  estão acompanhados pelo respectivo **código de identificação** contido em cada documento._
  
+ - **Idiomas**
+    - Inglês (avançado)
+    - Mandarim (básico)
+
  - **DIO (Digital Innovation One)**
     - Bootcamps
         - [Boas-vindas ao Bootcamp Take Blip Web Developer (E532F59F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-boas-vindas-ao-bootcamp-take-blip-web-develope.pdf)
