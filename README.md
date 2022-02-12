@@ -11,6 +11,7 @@
     - Bootcamps
         - [Boas-vindas ao Bootcamp Take Blip Web Developer (E532F59F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-boas-vindas-ao-bootcamp-take-blip-web-develope.pdf)
     - Cursos
+        - [Coleções (D41E2479)](https://o-patrick.github.io/certificados/certificados/dio/D41E2479_colecoes.pdf)
         - [Funções (59FA2982)](https://o-patrick.github.io/certificados/certificados/dio/59FA2982_funcoes.pdf)
         - [Variáveis e Tipos (82FD1BD0)](https://o-patrick.github.io/certificados/certificados/dio/82FD1BD0-var-tipos.pdf)
         - [Sintaxe e Operadores (A966260B)](https://o-patrick.github.io/certificados/certificados/dio/A966260B_sintaxe-operadores.pdf)
