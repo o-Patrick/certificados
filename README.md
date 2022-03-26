@@ -7,6 +7,10 @@
     - [Inglês (avançado)](https://o-patrick.github.io/certificados/certificados/ingles/ingles.pdf)
     - [Mandarim (básico)](https://o-patrick.github.io/certificados/certificados/chines/certificate-chines-1-5b32f299c1ba3197938b4596.pdf)
 
+- **Cisco**
+    - Credencial
+        - [Cybersecurity Essentials](https://www.credly.com/badges/5f2cc92b-440d-4db2-b09c-9a2c4087c4f2/public_url)
+
  - **DIO (Digital Innovation One)**
     - Bootcamps
         - [Take Blip Web Developer (5747C311)](https://o-patrick.github.io/certificados/certificados/dio/5747C311_bootcamp-tbwd.pdf)
