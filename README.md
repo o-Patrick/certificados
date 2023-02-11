@@ -8,7 +8,10 @@
     - [Mandarim (básico)](https://o-patrick.github.io/certificados/certificados/chines/certificate-chines-1-5b32f299c1ba3197938b4596.pdf)
 
 - **Cisco**
-    - Credencial
+    - Carta ao mérito
+        - [CCNA: Introduction to Networks (por )](https://o-patrick.github.io/certificados/certificados/cisco/CCNA - Introduction to Network/PatrickFernandes Leme-5ªOnda_CiberEduc-letter.pdf)
+    - Credenciais
+        - [CCNA: Introduction to Networks](https://www.credly.com/badges/0df4aa39-72c9-4998-8398-cba721d4c73b/public_url)
         - [Cybersecurity Essentials](https://www.credly.com/badges/5f2cc92b-440d-4db2-b09c-9a2c4087c4f2/public_url)
 
  - **DIO (Digital Innovation One)**
