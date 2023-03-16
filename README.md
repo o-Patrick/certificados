@@ -7,7 +7,10 @@
     - [Inglês (avançado)](https://o-patrick.github.io/certificados/certificados/ingles/ingles.pdf)
     - [Mandarim (básico)](https://o-patrick.github.io/certificados/certificados/chines/certificate-chines-1-5b32f299c1ba3197938b4596.pdf)
 
-- **Cisco**
+ - **Senai**
+    - [Cisco CCNA 1 - Introdução às Redes](https://o-patrick.github.io/certificados/certificados/senai/ccna-senai.pdf)
+
+ - **Cisco**
     - Carta ao mérito
         - [CCNA: Introduction to Networks (por Chuck Robbins, CEO Cisco)](https://o-patrick.github.io/certificados/certificados/cisco/CCNA - Introduction to Network/PatrickFernandes Leme-5ªOnda_CiberEduc-letter.pdf)
     - Credenciais
