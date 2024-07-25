@@ -55,6 +55,13 @@
         - [Primeiros Passos Para Começar a Programar (7529BB37)](https://o-patrick.github.io/certificados/certificados/dio/certificado-programar.pdf)
         - [Bem-vindo à DIO (75B0FEE3)](https://o-patrick.github.io/certificados/certificados/dio/certificado-bem-vindo-a-dio.pdf)
 
+ - **Impulso Digital (CIEE e Ada Tech)**
+    - Cursos
+        - [Dicas para conseguir o primeiro emprego](https://o-patrick.github.io/certificados/certificados/impulso_digital_ciee_ada_tech/dicas_para_conseguir_o_primeiro_emprego.pdf)
+        - [Mundo e mercado tech](https://o-patrick.github.io/certificados/certificados/impulso_digital_ciee_ada_tech/mundo_e_mercado_tech.pdf)
+        - [Quem sou eu?](https://o-patrick.github.io/certificados/certificados/impulso_digital_ciee_ada_tech/quem_sou_eu.pdf)
+        - [Você foi contratado!](https://o-patrick.github.io/certificados/certificados/impulso_digital_ciee_ada_tech/voce_foi_contratado.pdf)
+
  - **LinkedIn Learning**
     - Cursos
         - [Como Desenvolver sua Inteligência Emocional (AW1aJudBvWzz5yCvE8l57g0AuPNS)](https://o-patrick.github.io/certificados/certificados/linkedin-learning/certificado-de-donclusao_como-desenvolver-sua-inteligencia-emocional.pdf)
