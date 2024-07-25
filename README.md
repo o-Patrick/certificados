@@ -20,7 +20,7 @@
         - [Cybersecurity Essentials](https://www.credly.com/badges/5f2cc92b-440d-4db2-b09c-9a2c4087c4f2/public_url)
     - Certificados
         - [CCNA: Introduction to Networks](https://o-patrick.github.io/certificados/certificados/cisco/ccna_introduction_to_networks/PatrickFernandesLeme-5ªOnda_CiberEduc-certificate.pdf)
-        - [CyberOps Associate](https://o-patrick.github.io/certificados/certificados/cisco/s/PatrickFernandesLeme-5ªOnda_CiberEduc-certificate.pdf)
+        - [CyberOps Associate](https://o-patrick.github.io/certificados/certificados/cisco/cyberops_associate/PatrickFernandesLeme-5ªOnda_CiberEduc-certificate.pdf)
         - [Cybersecurity Essentials](https://o-patrick.github.io/certificados/certificados/cisco/cybersecurity_essentials/PatrickFernandesLeme-MaratonaCiber202-certificate.pdf)
 
  - **DIO (Digital Innovation One)**
