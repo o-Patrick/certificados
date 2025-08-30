@@ -26,8 +26,8 @@
  - **DIO (Digital Innovation One)**
     - Bootcamps
         - [Formação .Net Developer (DG0UQHFV)](https://o-patrick.github.io/certificados/certificados/dio/DG0UQHFV_formacao-dotnet-developer.pdf)
+        - [Formação Angular Developer (ISYQMIMX)](https://o-patrick.github.io/certificados/certificados/dio/ISYQMIMX_angular-developer.pdf)
         - [Take Blip Web Developer (5747C311)](https://o-patrick.github.io/certificados/certificados/dio/5747C311_bootcamp-tbwd.pdf)
-        - [Boas-vindas ao Bootcamp Take Blip Web Developer (E532F59F)](https://o-patrick.github.io/certificados/certificados/dio/certificado-boas-vindas-ao-bootcamp-take-blip-web-dev.pdf)
         - [HTML Web Developer (85E6CC5C)](https://o-patrick.github.io/certificados/certificados/dio/85E6CC5C_bootcamp-html-web-dev.pdf)
     - Cursos
         - [MySQL - Consultas com Join (2C1C1E93)](https://o-patrick.github.io/certificados/certificados/dio/2C1C1E93_mysql-join.pdf)
