@@ -11,6 +11,7 @@
     - [Formação .Net Developer (DG0UQHFV)](https://o-patrick.github.io/certificados/certificados/dio/DG0UQHFV_formacao-dotnet-developer.pdf)
     - [Formação Angular Developer (ISYQMIMX)](https://o-patrick.github.io/certificados/certificados/dio/ISYQMIMX_angular-developer.pdf)
     - [Formação Python Fundamentals (ZOWKBER2)](https://o-patrick.github.io/certificados/certificados/dio/ZOWKBER2_formacao_python_fundamentals.pdf)
+    - [Formação Python Backend Developer (PAERTLJK)](https://o-patrick.github.io/certificados/certificados/dio/PAERTLJK_formacao_python_backend_developer.pdf)
 
  - **Cisco**
     - Cartas ao mérito
